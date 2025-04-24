@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Neil Aditya Raman
-- 👀 I’m interested in general SWE, business, and, more specifically, applying computational drug discovery techniques to design molecules that can aid in neurodegenerative disease recovery
-- 🌱 I’m currently studying Information Systems and Economics at Carnegie Mellon University as an undergraduate
-- 🤝 I’m looking to collaborate on any medical project that aims to improve healthcare/drive forward what we know about the human body
-- 📫 How to reach me: neilr@andrew.cmu.edu or Neil Raman on LinkedIn
-- 😄 Pronouns: He/Him
+- 👋 Hi! I’m Neil Aditya Raman, a current freshman at Carnegie Mellon University majoring in Information Systems, with an additional major in Economics
+- 👀 I have a bunch of interests, which range from computational biology/chemistry, applied AI/ML in healthcare, and researching foundational models in robotics, driverless cars, and space exploration
+- 🤝 I’m open to collaborating on any project that is technically challenging and relevant to the real world - special interest to those that aim to improve healthcare and drive forward what we know about the human body
+- 📫 How to reach me: neilr[at]andrew[dot]cmu[dot]edu or Neil Raman on LinkedIn
 - ⚡ Fun fact: I've sung in the Harvard Summer Choir in high school
 
 <!---
